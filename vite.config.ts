@@ -14,7 +14,7 @@ export default defineConfig({
       threshold: 1024 * 10, // 10KB 이상 파일 압축
     }),
   ],
-  base: "/MarketFolio/",
+  base: "/Marketfolio/",
   assetsInclude: ["**/*.gltf", "**/*.svg?react", "**/*.png"],
   server: {},
 });
