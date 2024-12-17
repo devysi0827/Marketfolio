@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 function App() {
-  return <Main>init</Main>;
+  return <Main>효매 바보</Main>;
 }
 
 const Main = styled.p`
